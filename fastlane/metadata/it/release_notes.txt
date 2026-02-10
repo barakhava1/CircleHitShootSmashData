@@ -1,0 +1,1 @@
+Miglioramenti delle prestazioni, localizzazione dei metadati, correzioni di bug

@@ -1,0 +1,1 @@
+Millores de rendiment, localització de metadades, correcció derrors

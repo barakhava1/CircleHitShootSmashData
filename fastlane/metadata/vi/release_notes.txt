@@ -1,0 +1,1 @@
+Cải thiện hiệu năng, bản địa hóa siêu dữ liệu, sửa lỗi.
